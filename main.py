@@ -1215,7 +1215,7 @@ def main():
     # Sidebar
     with st.sidebar:
         # Logo and Title Container
-        st.image(r"C:\Users\sukri\Desktop\IITM\WhatsApp Image 2025-01-06 at 13.05.40_59fbd011.jpg", width=300)  # Update path to your logo
+        st.image(r"logo.jpg", width=300)  # Update path to your logo
         st.title("Sustain")
         
         st.markdown("<p style='color: #666; margin-top: -15px; font-style: italic;'>Empowering Sustainable Decisions Through ESG Analytics</p>", unsafe_allow_html=True)
